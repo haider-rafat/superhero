@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+  background: #267af7;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 5px;
+}
+h1,
+p,
+h3 {
+  margin-top: 0;
+  color:#fff;
+}
+header p {
+  font-weight: 500;
+}
